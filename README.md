@@ -1,4 +1,5 @@
 # Data-Analyzing-and-webscraping-of-Covid19-India
+![GitHub](https://img.shields.io/github/license/AjitVerma15/Data-Analyzing-and-webscraping-of-Covid19-India?style=plastic)
 
 This repository contains data of corona cases in india including Total Cases, Total Recovered, New Cases and Deaths
 - Data gets updated automatically 
